@@ -1,4 +1,4 @@
-# 
+# AI-powered grid trading bot for futures Tool | take-profit + liquidity-provision offers the most advanced grid trading bot for futures, with take-profit and liquidity-provision.
 
 
 
